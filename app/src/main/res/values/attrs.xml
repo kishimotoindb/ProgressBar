@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChrysanthemumView">
+        <attr name="chry_width" format="dimension|reference"/>
+        <attr name="chry_color" format="color|reference"/>
+        <attr name="chry_rotation_duration" format="integer"/>
+    </declare-styleable>
+</resources>
